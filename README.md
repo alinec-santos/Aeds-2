@@ -5,7 +5,7 @@ Introdução: Este repositório contém os trabalhos práticos realizados na dis
 
 Objetivo: Implementar e comparar duas técnicas de indexação e busca em grandes conjuntos de dados textuais: a árvore Patricia e a tabela hash.  
   Descrição: O trabalho consiste em desenvolver e avaliar a implementação de uma árvore Patricia e uma tabela hash para armazenar e manipular dados textuais. A árvore Patricia é uma estrutura de dados compacta que permite buscas e inserções rápidas, enquanto a tabela hash utiliza uma função de hash para distribuir dados de forma uniforme, proporcionando acesso rápido e eficiente. Além disso, o trabalho deve incluir a construção de um índice invertido para facilitar a busca de palavras em documentos.
-Requisitos: Linguagem de programação C, Compilador GCC.
+  Requisitos: Linguagem de programação C, Compilador GCC.
 Compilação e Execução: Para compilar o código, execute:  
 **make all**
 Para executar o programa, use:
